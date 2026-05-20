@@ -1,245 +1,250 @@
 <div align="center">
-  
-# 👋 Hey there, I'm Muhammad Hamnas C P
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%8C%90;Clean+Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamnas98&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hamnas98?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
-</p>
+# Muhammad Hamnas C P
 
-### 💫 Turning Ideas into Reality Through Code
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%26+Spring+Boot+Engineer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%F0%9F%8C%90;Clean+Code+%26+System+Design+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hamnas-cp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-hamnas98s-projects.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamnascp98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamnas98)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hamnas98&label=Profile+Views&color=6C63FF&style=flat-square)&nbsp;
+![Followers](https://img.shields.io/github/followers/hamnas98?label=Followers&style=flat-square&color=6C63FF)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
 ```javascript
 const hamnas = {
-    name: "Muhammad Hamnas C P",
-    role: "Software Developer",
-    location: "Bengaluru, Karnataka, India",
-    education: "Master of Computer Applications (MCA)",
-    company: "Brototype Bootcamp",
-    
-    currentlyLearning: ["Java", "SpringBoot", "CI/Cd", "Agile", "Docker", "AWS"],
-    currentlyWorking: "Building scalable MERN & Spring-Boot  applications",
-    
-    coreSkills: [
-        "MERN Stack Development 🚀",
-        "Java Spring-boot Development 🚀",
-        "REST API Design 🔧",
-        "Responsive UI/UX 🎨",
-        "Clean Code & MVC 📐",
-        "Payment Integration 💳"
-    ],
-    
-    passions: [
-        "Problem Solving 🧩",
-        "Clean Architecture 🏗️",
-        "Performance Optimization ⚡",
-        "Learning New Tech 📚"
-    ],
-    
-    goals2026: [
-        "Master Java, Spring-boot",
-        "Contribute to open source projects",
-        "Build impactful products",
-        "Become an expert in system design"
-    ],
-    
-    funFact: "I turn coffee into code and bugs into features! ☕💻"
+  name     : "Muhammad Hamnas C P",
+  role     : "Software Developer",
+  location : "Bengaluru, Karnataka, India 🇮🇳",
+  education: "Master of Computer Applications (MCA)",
+  company  : "Brototype Bootcamp",
+
+  currentlyLearning : ["Java", "Spring Boot", "Docker", "AWS", "CI/CD", "Agile"],
+  currentlyBuilding : "Scalable MERN & Spring Boot applications",
+
+  coreSkills: [
+    "MERN Stack Development 🚀",
+    "Java Spring Boot Development ☕",
+    "REST API Design 🔧",
+    "Responsive UI/UX 🎨",
+    "Automation Testing with Playwright 🎭",
+    "Clean Code & MVC Architecture 📐",
+    "Payment Integration 💳",
+  ],
+
+  passions: [
+    "Problem Solving 🧩",
+    "Clean Architecture 🏗️",
+    "Performance Optimization ⚡",
+    "Open Source Contribution 🌍",
+  ],
+
+  goals2026: [
+    "Master Java & Spring Boot microservices",
+    "Build a complete Playwright automation testing framework",
+    "Contribute to impactful open source projects",
+    "Build products that solve real problems",
+    "Become proficient in system design",
+  ],
+
+  funFact: "I turn coffee ☕ into code and bugs into features!",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💬 Languages
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-JAVA
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-NOSQL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
-### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-Sring-boot
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-postgres
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+### ⚙️ Backend
 
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-intelliJ IDEA
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
-</div>
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+
+### 🧪 Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+### ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Fairway Grocery
+**Full-Featured E-Commerce Platform**
+
+Production-ready grocery e-commerce app with payment integration, real-time order tracking, admin dashboard, wallet system, coupons, and referral offers.
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.fairwaygrocery.shop)
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamnas98/hamnas98-fairway-grocery-ecommerce)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ Advanced React Todo App
+**Feature-Rich Task Management**
+
+Modern todo app with dark mode, drag-and-drop reordering, form validation, relative time display, and localStorage persistence.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-app-swart-ten-18.vercel.app/)
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamnas98/TODO-APP)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏪 OLX Clone
+**Marketplace Web App**
+
+Full-featured OLX clone with Redux Toolkit, Firebase integration, wishlist functionality, redux-persist, and async state management.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamnas98/Olx-Clone)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 FoodDash *(WIP)*
+**Swiggy-Inspired Delivery App**
+
+Food delivery app reverse-engineered from Swiggy — infinite scroll using real GET→POST pagination, protected routes via AuthContext, and dynamic restaurant detail pages.
+
+![React 19](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind v4](https://img.shields.io/badge/-Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/-React_Router_v6-CA4245?style=flat-square&logo=react-router&logoColor=white)
+
+[![Code](https://img.shields.io/badge/In_Progress-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamnas98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnas98&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamnas98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamnas98&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamnas98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamnas98&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamnas98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
 
 </div>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamnas98/hamnas98/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamnas98/hamnas98/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hamnas98/hamnas98/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hamnas98/hamnas98/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
+
 ---
 
-## 🎯 Featured Projects
+## 🏆 Trophies
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🛒 Fairway Grocery</h3>
-<div align="center">  
-<a href="https://github.com/hamnas98/hamnas98-fairway-grocery-ecommerce" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hamnas98&repo=hamnas98-fairway-grocery-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<p><strong>🚀 Full-Featured E-Commerce Platform</strong></p>
-<p>Production-ready grocery e-commerce app with payment integration, real-time order tracking, admin dashboard, wallet system, coupons, and referral offers.</p>
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-<a href="https://www.fairwaygrocery.shop" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">✅ Advanced React Todo App</h3>
-<div align="center">  
-<a href="https://github.com/hamnas98/TODO-APP" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hamnas98&repo=TODO-APP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<p><strong>📝 Feature-Rich Task Management App</strong></p>
-<p>Modern todo app with dark mode, drag-and-drop reordering, form validation, relative time display, and localStorage persistence.</p>
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-<a href="https://todo-app-swart-ten-18.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">🏪 OLX Clone</h3>
-<div align="center">  
-<a href="https://github.com/hamnas98/Olx-Clone" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hamnas98&repo=Olx-Clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<p><strong>🔥 Feature-Rich Marketplace Clone</strong></p>
-<p>Full-featured OLX clone with Redux Toolkit, Firebase integration, wishlist functionality, redux-persist, and async state management.</p>
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-<a href="https://github.com/hamnas98/Olx-Clone" target="_blank">
-<img src="https://img.shields.io/badge/View_Code-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-</td>
-
-</table>
+![Trophies](https://github-profile-trophy.vercel.app/?username=hamnas98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Goals · 2026
 
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=hamnas98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamnas98&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+```
+01  →  Master Java & Spring Boot — build production microservices
+02  →  Build a complete Playwright E2E automation testing framework
+03  →  Contribute meaningfully to open source
+04  →  Build impactful products that solve real problems
+05  →  Deep-dive into system design & distributed systems
+```
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hamnas-cp)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-hamnas98s-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamnascp98@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamnas98)
-
-</div>
-
----
-
-## 💭 Dev Quote
+## 💭 Quote
 
 <div align="center">
 
@@ -251,16 +256,8 @@ intelliJ IDEA
 
 <div align="center">
 
-### 💜 Thanks for visiting!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&text=Let%27s+Build+Something+Amazing&fontSize=24&fontAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontAlignY=65&animation=twinkling" />
-
-**Made with ❤️ using Markdown & GitHub Stats APIs**
-
-<p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-</p>
+**Thanks for visiting! Let's connect and build something great together 🚀**
 
 </div>
