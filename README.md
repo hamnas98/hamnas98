@@ -20,16 +20,17 @@
 ```javascript
 const hamnas = {
     name: "Muhammad Hamnas C P",
-    role: "Full Stack Developer",
+    role: "Software Developer",
     location: "Bengaluru, Karnataka, India",
     education: "Master of Computer Applications (MCA)",
     company: "Brototype Bootcamp",
     
-    currentlyLearning: ["Next.js", "TypeScript", "Docker", "AWS"],
-    currentlyWorking: "Building scalable MERN stack applications",
+    currentlyLearning: ["Java", "SpringBoot", "Docker", "AWS"],
+    currentlyWorking: "Building scalable MERN & Spring-Boot  applications",
     
     coreSkills: [
         "MERN Stack Development 🚀",
+        "Java Spring-boot Development 🚀",
         "REST API Design 🔧",
         "Responsive UI/UX 🎨",
         "Clean Code & MVC 📐",
@@ -43,8 +44,8 @@ const hamnas = {
         "Learning New Tech 📚"
     ],
     
-    goals2025: [
-        "Master TypeScript & Next.js",
+    goals2026: [
+        "Master Java, Spring-boot",
         "Contribute to open source projects",
         "Build impactful products",
         "Become an expert in system design"
